@@ -19,7 +19,7 @@ def api():
             "current_day": current.strftime("%A"),
             "utc_time": current.strftime("%Y-%m-%dT%H:%M:%SZ"),
             "track": request.args['track'],
-            "github_file_url": "https://github.com/chinweibegbu/zuri-internship/task1.py",
+            "github_file_url": "https://github.com/chinweibegbu/zuri-internship/blob/main/stage1/task1.py",
             "github_repo_url": "https://github.com/chinweibegbu/zuri-internship.git",
             "status_code": "200"
         }
