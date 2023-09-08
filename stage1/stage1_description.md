@@ -6,7 +6,7 @@
 Create and host an endpoint using any programming language of your choice. The endpoint should take two GET parameters and return specific information in JSON format. 
 
 ### Language Options
-* Python (language used)
+* Python
 * Golang
 * NodeJS
 * PHP
@@ -45,8 +45,19 @@ Create and host an endpoint using any programming language of your choice. The e
    * **Status Code**: Return 200 as a String 
 4. **JSON Format**: The endpoint's response should adhere to the specified JSON format.
 
+## Implementation Details
+Language used:
+&nbsp;&nbsp;&nbsp;
+Python <br>
+Framework used:
+&nbsp;
+Flask <br>
+Host used:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[https://www.render.com/](https://www.render.com/)
+
 ## Testing
 Before submission:
-- [ ] Ensure the endpoint is accessible
-- [ ] Check the returned JSON against the defined format
-- [ ] Validate the correctness of each data point in the JSON response
+- [x] Ensure the endpoint is accessible
+- [x] Check the returned JSON against the defined format
+- [x] Validate the correctness of each data point in the JSON response
