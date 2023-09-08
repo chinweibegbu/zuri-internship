@@ -3,5 +3,5 @@
 # Credit: https://github.com/lingthio/Flask-User-starter-app/blob/master/requirements.txt
 
 # Flask Framework
-Flask==2.0.0
-gunicorn=21.2.0
+flask
+gunicorn
