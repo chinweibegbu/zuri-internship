@@ -5,7 +5,7 @@ Resources:
 * https://www.linode.com/docs/guides/create-restful-api-using-python-and-flask/
 * https://www.w3schools.com/python/python_datetime.asp
 """
-from flask import Flask, request, jsonify
+from flask import Flask, render_template, request, jsonify
 import datetime
 
 app = Flask(__name__)
@@ -27,7 +27,4 @@ def api():
 
 @app.route('/')
 def index():
-    return "Hello, Every-nyan!"
-  
-# if __name__ == "__main__":
-#     app.run()
+    return render_template('./index.html')

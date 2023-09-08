@@ -2,6 +2,5 @@
 # Usage: pip install -r requirements.txt
 # Credit: https://github.com/lingthio/Flask-User-starter-app/blob/master/requirements.txt
 
-# Flask Framework
 flask
 gunicorn

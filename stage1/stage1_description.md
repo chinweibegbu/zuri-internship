@@ -6,7 +6,7 @@
 Create and host an endpoint using any programming language of your choice. The endpoint should take two GET parameters and return specific information in JSON format. 
 
 ### Language Options
-* Python
+* Python (language used)
 * Golang
 * NodeJS
 * PHP
