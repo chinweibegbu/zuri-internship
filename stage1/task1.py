@@ -29,5 +29,5 @@ def api():
 def index():
     return "Hello, Every-nyan!"
   
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()
