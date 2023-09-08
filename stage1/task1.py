@@ -1,10 +1,3 @@
-"""
-Resources:
-* https://www.geeksforgeeks.org/flask-app-routing/
-* https://www.geeksforgeeks.org/flask-http-methods-handle-get-post-requests/
-* https://www.linode.com/docs/guides/create-restful-api-using-python-and-flask/
-* https://www.w3schools.com/python/python_datetime.asp
-"""
 from flask import Flask, render_template, request, jsonify
 import datetime
 

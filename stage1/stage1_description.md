@@ -46,6 +46,7 @@ Create and host an endpoint using any programming language of your choice. The e
 4. **JSON Format**: The endpoint's response should adhere to the specified JSON format.
 
 ## Implementation Details
+### Tools Used
 Language used:
 &nbsp;&nbsp;&nbsp;
 Python <br>
@@ -55,6 +56,13 @@ Flask <br>
 Host used:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [https://www.render.com/](https://www.render.com/)
+
+### Resources Used
+* https://www.geeksforgeeks.org/flask-app-routing/
+* https://www.geeksforgeeks.org/flask-http-methods-handle-get-post-requests/
+* https://www.linode.com/docs/guides/create-restful-api-using-python-and-flask/
+* https://www.w3schools.com/python/python_datetime.asp
+* https://codeforgeek.com/render-html-file-in-flask/
 
 ## Testing
 Before submission:
